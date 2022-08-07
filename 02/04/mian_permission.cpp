@@ -33,5 +33,7 @@ int main()
     // p1.m_car = "benchi";   // 保护权限类外访问不到
     // p1.m_password = 131422; // 私有权限类外访问不到
 
+    p1.func();
+
     return 0;
 }

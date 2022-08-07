@@ -1,0 +1,6 @@
+Name: zhangsan
+Sex: man
+Age: 18
+Name: lisi
+Sex: man
+Age: 20
